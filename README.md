@@ -1,4 +1,7 @@
 # RTR105
+
+<h1>ctrl+alt+t= termināls</h1>
+
 datormācības kurss elektroniskā klade
 
 firefox&  /atvērt internetu
