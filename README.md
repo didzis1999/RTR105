@@ -27,12 +27,12 @@ man pwd  / pwd informācija
 
 ls  /mapes uz datora
 
-ls -l  /    
+ls -l  /    objekti
 
-ls -a  /
+ls -a  / objekti
 
-ls -la  /
+ls -la  / objekti
 
-man man  /
+man man  / sīkāka informācija par mapēm
 
 
