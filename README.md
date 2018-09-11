@@ -38,4 +38,41 @@ ls -la  / objekti
 
 man man  / sīkāka informācija par mapēm
 
+cd   /pārvietoties uz citu mapi
+
+cd  /   /home/user
+
+cd ..    /pārvietoties uz user
+
+mkdir    /izveidot dictionary
+
+rmdir    /izdzēst dictionary
+
+rm       / izdzēst failu vai dictionary
+
+rm -r    /izdzēst failu
+
+echo     / parādīt tekstu
+
+echo "teksts" > fails1.txt      /nosūtīt tekstu uz failu 
+
+\n    /jaunā rindā
+
+cat informācija par mapi
+
+setxkbmap iestatīt valodu
+
+echo "Cits Teksts" >> /fails1.txt   / papildināt tekstu citā mapē
+
+man chmod    /mainīt faila bitus
+
+cp         /kopēt failu
+
+mv *.txt     /pārvietot tikai text failus
+
+rm *3*.txt     /izdzēst failus ar 3 nosaukumā
+
+mv      /pārvietot failus
+
+
 
