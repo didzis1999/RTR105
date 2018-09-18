@@ -38,6 +38,7 @@ ls -la  / objekti
 
 man man  / sīkāka informācija par mapēm
 
+
 cd   /pārvietoties uz citu mapi
 
 cd  /   /home/user
@@ -74,6 +75,46 @@ rm *3*.txt     /izdzēst failus ar 3 nosaukumā
 
 mv      /pārvietot failus
 
+$PATH   /vide mainīgais kurš apraksta mapes kurās var atrasties skripti
+
+whereis firefox    /atrašanaš vieta firefox
+
+create_in.sh      /
+
+echo -e "mkdir Mape\ncd Mape" > create_in.sh      /uztaisīt mapi
+
+git clone htps://github.com/didzis1999/RTR105    /piesaistīt githubu 
+
+cd /RTR105    /ieiet savā
+
+nano README.md    /editot readme
+
+./git-upload 20180918_14_05      /apskatīties un saglabāt pēdējās darbības 
+
+python    /MD
+
+ipython     /MD
+
+idle &    /MD
+
 Papildinajums nano README.md
+
+
+IDLE PYHTON
+
+vars()     /visas funkcijas
+
+a = 20   /mainīgā iestatīšana(ja kādu simbolu tad "T")
+
+a.__doc__     /informācija par mainīgo
+
+burts = "D" 
+
+ord(burts)  /burta numurs
+
+hex(ord(burts))    / burta hex skaitlis
+
+bin(ord(burts))    /burta binārais skaitlis
+
 
 
