@@ -79,7 +79,7 @@ $PATH   /vide mainīgais kurš apraksta mapes kurās var atrasties skripti
 
 whereis firefox    /atrašanaš vieta firefox
 
-create_in.sh      /
+create_in.sh       /
 
 echo -e "mkdir Mape\ncd Mape" > create_in.sh      /uztaisīt mapi
 
