@@ -1,0 +1,57 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo -e "mkdir Mape/ncd  Mape" > create_in.sh
+    4  ls
+    5  ls -l
+    6  cat create_in.sh
+    7  create_in.sh
+    8  $PATH
+    9  whereis cd
+   10  whereis firefox
+   11  pwd
+   12  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:home/user"
+   13  echo $PATH
+   14  cre
+   15  create_in.sh
+   16  echo $PATH
+   17  ls -l
+   18  chmod 764 create_in.sh
+   19  ls -l
+   20  create_in.sh
+   21  ls
+   22  create
+   23  pwd
+   24  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:home/user"
+   25  create_in.sh
+   26  ls -l
+   27  echo -e "mkdir Mape/ncd  Mape" > create_in.sh
+   28  ls -l
+   29  PATH="/home/user/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:home/user"
+   30  PATH="/home/user/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+   31  echo $PATH
+   32  create_in.sh
+   33  echo -e "mkdir Mape\ncd  Mape" > create_in.sh
+   34  create_in.sh
+   35  echo $PATH
+   36  ls -l
+   37  PATH=$PATH:~/Mape
+   38  echo $PATH
+   39  /home/user/create_in.sh
+   40  ./create_in.sh
+   41  nano create_in.sh
+   42  cd /usr/
+   43  nano create_in.sh
+   44  pwd
+   45  cd /home/user
+   46  pwd
+   47  git clone htps://github.com/didzis1999/RTR105
+   48  git clone https://github.com/didzis1999/RTR105
+   49  ls -l
+   50  cd /RTR105
+   51  cd RTR105
+   52  nano README.md 
+   53  ls -l
+   54  nano README.md 
+   55  nano git-upload
+   56  ls -l
+   57  history > history_20180918.txt

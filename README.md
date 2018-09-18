@@ -74,5 +74,6 @@ rm *3*.txt     /izdzēst failus ar 3 nosaukumā
 
 mv      /pārvietot failus
 
+Papildinajums nano README.md
 
 
