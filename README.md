@@ -118,3 +118,4 @@ bin(ord(burts))    /burta binārais skaitlis
 
 
 
+
