@@ -116,6 +116,22 @@ hex(ord(burts))    / burta hex skaitlis
 
 bin(ord(burts))    /burta binārais skaitlis
 
+PATH=$PATH:~ - piešķiramās operācijas
 
+git clone https://github.com/181REB281/RTR105 -
+
+git pull - quick fix ja ir divi branches
+
+python - atver python
+
+vars() - parāda darbības
+
+builtins - galvena mape (4ip)
+
+builtins.doc - cita mape
+
+ipython - atver citu python variantu
+
+idle & - atver VELVIENU python variantu
 
 
